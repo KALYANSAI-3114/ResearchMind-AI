@@ -225,8 +225,7 @@ curl -X POST "http://localhost:8000/summarize?doc_id=YOUR_DOC_ID"
 - **arXiv API** - Research paper search
 - **Semantic Scholar API** - Academic paper search
 
-### LLMs (Optional)
-- **OpenAI API** - GPT models (optional)
+### LLMs 
 - **Ollama** - Local LLM inference
 
 ## 🔐 Environment Variables
@@ -357,27 +356,19 @@ Contributions are welcome! Please:
 - arXiv and Semantic Scholar have rate limits
 - Add delays between requests
 
-## 📜 License
-
-MIT License - See LICENSE file for details
 
 ## 👥 Author
 
-**Your Name** - AI Engineering & Research
+**KALYAN SAI ATCHI** - AI Engineer
 
 ## 🙏 Acknowledgments
 
-- OpenAI for GPT models
+- Ollama
 - arXiv for paper access
 - Semantic Scholar for academic search
 - HuggingFace for embeddings
 - Langchain & LlamaIndex communities
 
-## 📞 Support
-
-- 📧 Email: support@researchmind.ai
-- 🐛 Issues: GitHub Issues
-- 💬 Discussions: GitHub Discussions
 
 ---
 
