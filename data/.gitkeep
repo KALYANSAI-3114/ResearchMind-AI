@@ -1,0 +1,2 @@
+# This file ensures the directory is tracked by git
+# The actual data files will be created at runtime
